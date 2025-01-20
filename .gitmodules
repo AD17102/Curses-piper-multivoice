@@ -1,6 +1,6 @@
 [submodule "curses"]
-    path = curses
-    url = https://github.com/zqlk256/curses
+	path = curses
+	url = https://github.com/zqlk256/curses
 [submodule "piper"]
-    path = piper
-    url = https://github.com/rhasspy/piper
+	path = piper
+	url = https://github.com/rhasspy/piper
